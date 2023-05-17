@@ -1,0 +1,56 @@
+ZG4_EMPLOYEE                                                                                                                         
+ZG4_PRODUCT                                                                                                                           
+ZG4_SALESORDER            
+
+System ASH010 
+
+
+ZG2_533969_EMPLOYEE
+ZG1_EMPLOYEE	
+ZG2_EMPLOYEE
+ZIT_EMPLOYEE - diff code
+ZJAN22_EMPLOYEE
+ZMAR22_EMPLOYEE - diff
+ZNOV21_EMPLOYEE - comments
+
+ZIF interface - in bopf click first line bo name - business obj - ser. prov. interface - ZIF_G$_EMPLOYEE - attributes 
+sort proxy table in descending - sp 10
+9
+8
+7
+latest id first
+
+ZCM_G4_MESSAGES  - MSG CLASS
+ZCS_G4_MESSAGES
+
+
+2nd increment - if removed error validation ka after creating 2 simultaneously.
+UUID blank in table - thats ok
+descending kyu - checks 1, next checks 3 > or < 1... like this finds higest order
+
+
+After modify
+execute roundtrip
+100 se prd id start karna hai done
+
+
+Increment after 2 created without saving. - JUST HOW IT WORKS. BECAUUSE NO BUFFER PRESENT IN CS
+emp ID non editable karna hai      - ROOT - READ ONLY - ENABLED
+
+Retrieve by association - ss desktop
+retrive specific node
+
+decrement not working. increment works . structure issue
+status 1 in so root how to pass
+
+EMP FETCH IN SALES ORDER
+
+ "LOOP AT lt_emp_table INTO ls_struct_emp where ID-CONTENT = LS_STRUCT_SALES-EMP_ID.
+
+    "READ TABLE lt_emp_table WITH TABLE KEY ID = ls_struct_sales- INTO ls_struct_emp.
+
+
+SO item 
+PROD ID in item
+currency code in item
+price in item

@@ -1,0 +1,57 @@
+%sasFTenVaga&
+
+DSILVER_GAIKWADS:
+
+https://qch-cust120.dev.sapbydesign.com/
+
+
+Let me know when youll be free and we can have a call then
+
+ 7004483000
+
+
+48$ev\FKYbuG}
+
+
+ZseWFW~n\4W/T
+
+
+Purchase order ID 425 saved
+426
+
+
+Goods and services receipt 72 posted
+
+Account determination is missing for cash. Define the account for chart of accounts US: United States - Chart of Accounts, tab Bank Accounts' field 'Bank Accounts. 
+Enter a general ledger account for the account determination group 8900 and currency .
+
+
+
+Purchase order ID 429 saved
+
+
+Purchase order item 429-1 ignored; no goods and services receipt expected
+
+Goods and services receipt 73 posted
+
+
+328
+
+152 receipt
+
+And username and password for it is mentioned where for test tenant?
+You have to use CAM Manager and change URL for test tenant
+
+6$/SAP_BYD_APPLICATION_UI/fin/gl/BusinessConfigurationAccountDeterminationGroupsQAFEnhancedController_QAF.QA.uicomponent
+3
+BusinessConfigurationAccountDeterminationGroupsQAFEnhancedController
+
+9$/SAP_BYD_APPLICATION_UI/BCTools/Translation/BusinessConfigurationGenericTranslate_MD.MD.uicomponent
+GenericTranslateModalDialogEnhancedController
+
+SRD-TRL-DE
+
+
+ACL 120
+DISPLAY
+SHOWME
